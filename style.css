@@ -36,7 +36,7 @@ h1 {
 .aside-l {
   background-color: yellow;
   text-align: center;
-  height: 25rem;
+  height: 20rem;
   width: 15%;
   float: left;
   font-size: 2rem;
@@ -47,7 +47,7 @@ h1 {
   background-color: gray;
   text-align: center;
   width: 70%;
-  height: 25rem;
+  height: 20rem;
   float: left;
   font-size: 2rem;
   display: table;
@@ -59,7 +59,7 @@ h1 {
   padding: 0 6px;
   float: right;
   width: 15%;
-  height: 25rem;
+  height: 20rem;
   display: block;
   font-size: 2rem;
   display: table;
