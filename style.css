@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-size: 1.5rem; */
+}
+.head {
+  background-color: red;
+  text-align: center;
+  font-size: 1.7rem;
+  height: 6rem;
+  width: 100%;
+  display: table;
+}
+h1 {
+  padding: 1rem;
+  color: white;
+  vertical-align: middle;
+}
+
+.nav {
+  background-color: blue;
+  text-align: center;
+  height: 3rem;
+  font-size: 2rem;
+}
+/* .divorta1 {
+  display: table;
+}
+.divorta2 {
+  display: table;
+}
+.divorta3 {
+  display: table;
+} */
+.aside-l {
+  background-color: yellow;
+  text-align: center;
+  height: 30rem;
+  width: 15%;
+  float: left;
+  font-size: 2rem;
+  display: table;
+}
+
+.main {
+  background-color: gray;
+  text-align: center;
+  width: 70%;
+  height: 30rem;
+  float: left;
+  font-size: 2rem;
+  display: table;
+}
+
+.aside-r {
+  background-color: yellow;
+  text-align: center;
+  padding: 0 6px;
+  float: right;
+  width: 15%;
+  height: 30rem;
+  display: block;
+  font-size: 2rem;
+  display: table;
+}
+h3 {
+  vertical-align: middle;
+}
+.clearfix {
+  clear: both;
+}
+
+.footer {
+  background-color: rgb(44, 43, 43);
+  text-align: center;
+  height: 7rem;
+  font-size: 2rem;
+}
